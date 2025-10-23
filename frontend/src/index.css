@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/*
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+estilos adicionales opcionales 
+
+*/
+
+body {
+  @apply bg-gray-900 text-white;
+}
