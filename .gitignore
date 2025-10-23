@@ -1,0 +1,9 @@
+nodemodules/
+__pycache__/
+f_release
+
+# Entornos Virtuales
+backend/watchlist
+
+# Archivos sensibles y/o Credenciales
+.env
