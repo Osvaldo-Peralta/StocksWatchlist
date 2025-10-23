@@ -1,0 +1,59 @@
+{
+  "next_id": 6,
+  "watchlists": {
+    "1": {
+      "id": 1,
+      "user_id": "osvaldoperalta01",
+      "name": "Compras",
+      "symbols": [
+        "SPOT",
+        "GOOG",
+        "TSLA",
+        "AMZN"
+      ]
+    },
+    "2": {
+      "id": 2,
+      "user_id": "osvaldoperalta01",
+      "name": "ETF - Index",
+      "symbols": [
+        "TQQQ",
+        "JNUG"
+      ]
+    },
+    "3": {
+      "id": 3,
+      "user_id": "osvaldoperalta01",
+      "name": "Investopedia100B",
+      "symbols": [
+        "BRK-A",
+        "BKNG",
+        "AZO"
+      ]
+    },
+    "4": {
+      "id": 4,
+      "user_id": "osvaldoperalta01",
+      "name": "Tech",
+      "symbols": [
+        "AMD",
+        "NVDA",
+        "TSM",
+        "AAPL",
+        "META",
+        "MSFT"
+      ]
+    },
+    "5": {
+      "id": 5,
+      "user_id": "osvaldoperalta01",
+      "name": "Servicios",
+      "symbols": [
+        "NFLX",
+        "ADBE",
+        "BABA",
+        "WBD"
+      ]
+    }
+  }
+}
